@@ -1,0 +1,31 @@
+
+header {
+    color:white;
+    font-size: 25px;
+    background-color: red;
+    text-align: center;
+}
+h1 {
+        font-size: 100px;
+    }
+
+nav {
+    color:white;
+    text-align: center;
+    background-color: orange;
+    text-decoration: underline;
+}
+div{
+    color:white;
+    background-color:green;
+}
+article {
+    color:white;
+    background-color: blue;
+}
+footer {
+    color:white;
+    background-color: blueviolet;
+    font-size: 50px;
+    text-align: center;
+}
